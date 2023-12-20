@@ -170,9 +170,9 @@ img {
         background-size: 100%, 120rem;
     }
 }
-@media (min-width: 1600px) {
+@media (min-width: 2200px) {
     .sobre-nosotros {
-        background-size: 100%, 210rem;
+        background-size: 100%, 200rem;
     }
 }
 .sobre-nosotros-grid {
